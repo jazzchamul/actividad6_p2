@@ -26,34 +26,45 @@ h1.titulo2{
 }
 p.dotted {
     color: aliceblue;
-    border-style: dotted;}
+    border-style: dotted;
+}
 p.dashed {
     color: aliceblue;
-    border-style: dashed;}
+    border-style: dashed;
+}
 p.solid {
     color: aliceblue;
-    border-style: solid;}
+    border-style: solid;
+}
 p.double {
     color: aliceblue;
-    border-style: double;}
+    border-style: double;
+}
 p.groove {
     color: aliceblue;
-    border-style: groove;}
+    border-style: groove;
+}
 p.ridge {
     color: aliceblue;
-    border-style: ridge;}
+    border-style: ridge;
+}
 p.inset {
     color: aliceblue;
-    border-style: inset;}
+    border-style: inset;
+}
 p.outset {
     color: aliceblue;
-    border-style: outset;}
+    border-style: outset;
+}
 p.none {
     color: aliceblue;
-    border-style: none;}
+    border-style: none;
+}
 p.hidden {
     color: aliceblue;
-    border-style: hidden;}
+    border-style: hidden;
+}
 p.mix {
     color: aliceblue;
-    border-style: dotted dashed solid double;}
+    border-style: dotted dashed solid double;
+}
